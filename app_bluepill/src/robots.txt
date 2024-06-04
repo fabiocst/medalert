@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /addMedico
+Disallow: /addPaciente
+Allow /
